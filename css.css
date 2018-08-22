@@ -1,0 +1,67 @@
+body {
+    overflow-x: hidden;
+    
+
+}
+#headber {
+    width:100vw;
+    height:6vh;
+    text-align:center;
+    
+
+}
+.headfont {
+    font-size: 4vh;
+    color:#0094ff;
+}
+.headfont2 {
+    font-size:2.5vh;
+    color:#808080;
+    
+    
+}
+#nav{
+    background-color: #444;	
+    padding: 1vh;	
+} 
+
+
+#nav ul{
+    padding: 0px; 	
+    margin: 0px;
+
+} 
+
+
+#nav ul li {
+    display: inline-block; 	
+    width:17vw;
+    text-align:center;
+    
+} 
+
+
+#nav ul li a { 
+    font-family: "Trebuchet MS", sans-serif; 
+    text-decoration: none;
+    color: #fff; 	 
+} 
+
+
+#nav ul li a:hover{ 
+    border-bottom: dotted 1px #fff;	 
+}
+
+#sitemap {
+    text-align:center;
+    width:100vw;
+   
+    font-size:1.6vh;
+}
+#game {
+   
+    width:80vw;
+    background-color:#000;
+
+    
+}
